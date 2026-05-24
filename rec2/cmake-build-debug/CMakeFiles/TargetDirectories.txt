@@ -1,0 +1,3 @@
+/Users/preme/CLionProjects/rec2/cmake-build-debug/CMakeFiles/rec2.dir
+/Users/preme/CLionProjects/rec2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/preme/CLionProjects/rec2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/preme/CLionProjects/rec2/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/rec2.dir/rec02.cpp.o -c /Users/preme/CLionProjects/rec2/rec02.cpp",
+  "file": "/Users/preme/CLionProjects/rec2/rec02.cpp",
+  "output": "/Users/preme/CLionProjects/rec2/cmake-build-debug/CMakeFiles/rec2.dir/rec02.cpp.o"
+}
+]
